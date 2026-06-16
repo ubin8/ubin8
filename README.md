@@ -58,7 +58,24 @@ My goal is simple: build software that is actually useful.
 
 ---
 
+## Stats
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ubin8&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ubin8&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=ubin8&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## Contribution Activity
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/ubin8/ubin8/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ubin8&theme=tokyo-night&hide_border=true&area=true&custom_title=ubin8%27s%20Contribution%20Graph" />
