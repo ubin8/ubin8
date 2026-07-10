@@ -1,32 +1,30 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=ubin8&fontSize=48&fontColor=2563EB&fontAlignY=50&fontAlign=50" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=ubin8&fontSize=48&fontColor=2563EB&fontAlignY=50&fontAlign=50&animation=fadeIn"
+    alt="ubin8"
+  />
 </p>
 
 <p align="center">
-  Developer focused on building useful tools, clean web apps and automation workflows.
+  CEO, <strong><u><a href="https://logivate.de">Logivate.de</a></u></strong>
 </p>
 
-<p align="center">
-  <a href="mailto:ubin8@tutamail.com">
-    <img src="https://img.shields.io/badge/EMAIL-REACH%20OUT-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" />
-  </a>
-  <a href="https://github.com/ubin8">
-    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
-  </a>
-  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-6-2563EB?style=for-the-badge&labelColor=111111" />
-  <img src="https://img.shields.io/badge/FOLLOWERS-0-8B5CF6?style=for-the-badge&labelColor=111111" />
-  <img src="https://img.shields.io/badge/STARS-0-FACC15?style=for-the-badge&labelColor=111111" />
-</p>
-
----
+<hr>
 
 ## About
 
-I'm a developer focused on building useful tools, clean web apps and automation workflows.
+I'm the CEO of **[Logivate.de](https://logivate.de)** and a developer focused on building practical web applications, automation systems and digital products.
 
-I enjoy working with web technologies, automation, backend systems and practical software that solves real problems. Right now, I'm improving my skills in TypeScript, React and APIs.
+I care about clean interfaces, reliable systems and software that solves real business problems.
 
-My goal is simple: build software that is actually useful.
+---
+
+## Current Focus
+
+- Building and growing **[Logivate.de](https://logivate.de)**
+- Developing modern web applications with TypeScript and React
+- Creating automation workflows and API integrations
+- Improving backend architecture and deployment processes
 
 ---
 
@@ -35,38 +33,54 @@ My goal is simple: build software that is actually useful.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" />
+  <img
+    src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark"
+    alt="JavaScript, TypeScript, Python, HTML and CSS"
+  />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" />
+  <img
+    src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark"
+    alt="React, Tailwind CSS and Vite"
+  />
 </p>
 
-### Backend & Databases
+### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+  <img
+    src="https://skillicons.dev/icons?i=postgres&theme=dark"
+    alt="PostgreSQL"
+  />
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,docker&theme=dark"
+    alt="Git, GitHub and Docker"
+  />
 </p>
 
 ---
 
-## Stats
+## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ubin8&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ubin8&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=ubin8&theme=tokyonight&hide_border=true" />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ubin8&theme=github_dark"
+    alt="GitHub statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ubin8&theme=github_dark"
+    alt="Repositories by language"
+  />
 </p>
 
 ---
@@ -74,9 +88,9 @@ My goal is simple: build software that is actually useful.
 ## Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/ubin8/ubin8/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ubin8&theme=tokyo-night&hide_border=true&area=true&custom_title=ubin8%27s%20Contribution%20Graph" />
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ubin8&theme=tokyo-night&hide_border=true&area=true&custom_title=ubin8%27s%20Contribution%20Graph"
+    alt="GitHub contribution graph"
+  />
 </p>
