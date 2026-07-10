@@ -1,0 +1,33 @@
+name: Generate GitHub Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "27 3 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/generate-stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ubin8
+          BRANCH_NAME: main
+          UTC_OFFSET: 1
+          AUTO_PUSH: true
