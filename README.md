@@ -83,9 +83,25 @@ I care about clean interfaces, reliable systems and software that solves real bu
   />
 </p>
 
+<p align="center">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=ubin8&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
+
 ---
 
 ## Contribution Activity
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/ubin8/ubin8/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake"
+  />
+</p>
 
 <p align="center">
   <img
