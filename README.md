@@ -73,13 +73,13 @@ I care about clean interfaces, reliable systems and software that solves real bu
 <p align="center">
   <img
     width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ubin8&theme=github_dark"
+    src="./profile-summary-card-output/github_dark/3-stats.svg"
     alt="GitHub statistics"
   />
   <img
     width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ubin8&theme=github_dark"
-    alt="Repositories by language"
+    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    alt="Top languages by repository"
   />
 </p>
 
